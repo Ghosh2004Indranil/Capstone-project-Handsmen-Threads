@@ -145,9 +145,35 @@ HandsMen Threads, a fashion-forward organization, aims to implement a Salesforce
 
 ---
 
+### **Phase 5: Deployment, Documentation & Maintenance**
+
+#### Deployment Strategy
+
+* Using Change Sets from Sandbox to Production
+
+#### Maintenance Plan
+
+* Weekly data checks and automation monitoring
+* User feedback and issue logging
+
+#### Troubleshooting Approach
+
+* Use of Debug Logs and Flow Fault Paths
+* Apex Exception handling with try-catch blocks
+
+---
+
 ### **Conclusion**
 
 The HandsMen Threads Salesforce CRM project successfully demonstrates how to integrate customer, order, and inventory management into a scalable and secure platform. The automation and scheduled jobs enhance operational efficiency, while dashboards and reports offer valuable business insights. The project was fully tested, documented, and is ready for future enhancements.
+
+---
+
+### **Future Enhancements**
+
+* Integration with WhatsApp or SMS for order alerts.
+* AI Recommendations for product suggestions.
+* Chatbot to handle FAQs and guide customers through orders.
 
 ---
 
@@ -156,3 +182,5 @@ The HandsMen Threads Salesforce CRM project successfully demonstrates how to int
 * Screenshots of object fields, flows, dashboards, and permission sets.
 * ER Diagram and Object Model
 * Sample test case results and screen captures.
+
+
